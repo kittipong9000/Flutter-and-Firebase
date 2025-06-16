@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999611507202",
+    "project_id": "myfluttetest",
+    "storage_bucket": "myfluttetest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999611507202:android:9b324aa4740740cdbd3d1b",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKnPUHSmCoJ-MfoAX4IWC7z8mo62TzdUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
