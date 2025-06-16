@@ -1,4 +1,6 @@
-# This is the code that has stopped developing -NAM. 
+# This is the code that has stopped developing 
+for play flutter and firebase
+# NAM. 
 
 # Flutter eCommerce App
 
